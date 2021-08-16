@@ -3,7 +3,7 @@
 
 tensorflow-gpu==1.13.1  
 keras==2.1.5  
-利用video.py可进行摄像头检测。  
+Camera detection can be performed using video.py  
 
 
 ## Reference
